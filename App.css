@@ -1,0 +1,17 @@
+/* App.css */
+
+.landing {
+  background-image: url('https://img.wallmur.net/@wmp/_826ax660/s/s/ss1487506175_moc5.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Additional styles for other components can be added here */
